@@ -5,8 +5,11 @@ public class HaloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("halo world");
 		for(int i =10; i <=20; i++){
-			System.out.println(i);
+			if(i%2==0){
+			System.out.println(i + " is even");
+			}
 		}
+		
 	}
 
 }
