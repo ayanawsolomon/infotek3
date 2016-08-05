@@ -12,6 +12,7 @@ public class HaloWorld {
 				System.out.println(i + " odd");
 			}
 			String name="solomon";
+			int age=20;
 		}
 		
 	}
