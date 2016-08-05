@@ -8,8 +8,10 @@ public class HaloWorld {
 			if(i%2==0){
 			System.out.println(i + " is even");
 			}else{
+				
 				System.out.println(i + " odd");
 			}
+			String name="solomon";
 		}
 		
 	}
